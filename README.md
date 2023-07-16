@@ -1,7 +1,7 @@
 - Hi, I’m @gabee12. I'm a 18 year old guy from Brazil studying in Germany. My preferred programming languages are Java and JavaScript, HTML, and C++.
 
 ========CURRENT PROJECTS===========
-- A discord bot for personal use with friends
+- A discord bot for personal use with friends (It now has support for music streaming from youtube!)
 - MGSV: TPP modding
 - Stardew Valley modding
 
