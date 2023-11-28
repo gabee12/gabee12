@@ -1,4 +1,4 @@
-- Hi, I’m @gabee12. I'm a 18 year old guy from Brazil studying in Germany. My preferred programming languages are Java and JavaScript, HTML, and C++.
+- Hi, I’m @gabee12. I'm a 18 year old guy from Brazil studying in Germany. My currently known programming languages are Java, HTML, JavaScript (Node.js) and some C#.
 
 ========CURRENT PROJECTS===========
 - A discord bot for personal use with friends
