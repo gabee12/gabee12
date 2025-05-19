@@ -2,7 +2,7 @@
 
 ========CURRENT PROJECTS===========
 
--Download helper for old versions of No Man's Sky
+- Download helper for old versions of No Man's Sky
 
 <!---
 gabee12/gabee12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
