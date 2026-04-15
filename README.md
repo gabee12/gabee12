@@ -1,8 +1,17 @@
-- Hi, I’m @gabee12. I'm a 20 year old guy from Brazil studying in Germany. My currently known programming languages are Java (and JavaScript), C++, C, Haskell, and some HTML, CSS and PHP as well.
+- Hi, I’m @gabee12. I'm a 21 year old CS Student from Brazil.
+
+- My current programming knowledge includes Java (and JavaScript), C++, C, Python, and some HTML, CSS and PHP as well.
+- My projects mostly involve DevOps, Cybersecurity, Machine Learning, Data Mining and Backend stuff.
+- 
 
 ========CURRENT PROJECTS===========
+- Server Maintenance at FabSoft (Unicentro)
 
-- Download helper for old versions of No Man's Sky
+==========PAST PROJECTS============
+- Many private Discord bots
+- NMS-Retro-Downloader: A Linux (and soon Windows) CLI Wrapper for Steam Depot Downloader that makes it easy to download older versions of No Man's Sky for archival
+- Hosting my own Email Server
+- Game Modding
 
 <!---
 gabee12/gabee12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
