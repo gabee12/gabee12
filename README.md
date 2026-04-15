@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/gabee12">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=CaparicaLeo&show_icons=true&theme=shadow_red&count_private=true&border_color=00000000"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaparicaLeo&layout=compact&langs_count=7&theme=shadow_red&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=gabee12&show_icons=true&theme=dark&count_private=true&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabee12&layout=compact&langs_count=7&theme=dark&border_color=00000000"/>
   </a>
 </div>
 
