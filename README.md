@@ -13,6 +13,13 @@
 - Hosting my own Email Server
 - Game Modding
 
+<div align="center">
+  <a href="https://github.com/gabee12">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=CaparicaLeo&show_icons=true&theme=shadow_red&count_private=true&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaparicaLeo&layout=compact&langs_count=7&theme=shadow_red&border_color=00000000"/>
+  </a>
+</div>
+
 <!---
 gabee12/gabee12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
